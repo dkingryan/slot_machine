@@ -8,10 +8,10 @@ ROWS = 3
 COLS = 3
 
 symbol_value = {
-    "$": 3,
-    "?": 3,
-    "!": 3,
-    "*": 3
+    "$": 4,
+    "?": 5,
+    "!": 6,
+    "*": 7
 }
 
 def check_winnings(columns, lines, bet, values):
